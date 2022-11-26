@@ -10,7 +10,10 @@ function App() {
       <p>Hello Boeing and mike</p>
       <span>wowww conflict</span>
       <h1>so sad 🥲</h1>   
-      <h2>sad sus sus</h2>   
+      <h2>sad sus sus</h2>
+      <h1>1</h1> 
+      <h1>2</h1>
+      <h1>3</h1>  
     </div>
   );
 }
