@@ -8,10 +8,9 @@ function App() {
   return (
     <div className="App">
       <p>Hello Boeing and mike</p>
-<h1>should conflict!!</h1>
-      
-
-      
+      <span>wowww conflict</span>
+      <h1>so sad 🥲</h1>   
+      <h2>sad sus sus</h2>   
     </div>
   );
 }
