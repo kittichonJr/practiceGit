@@ -9,10 +9,7 @@ function App() {
     <div className="App">
       <p>Hello Boeing and mike</p>
       <span>wowww conflict</span>
-      
-
-
-      
+      <h1>so sad 🥲</h1>      
     </div>
   );
 }
